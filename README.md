@@ -60,7 +60,7 @@ metodologías de trabajo y sus buenas prácticas.
 * Compartir recursos entre comunidades
 * Dar visibilidad a comunidades en provincias (Lima no es el Perú)
 
-## Recursos
+## Recursos propios
 
 * [Página web](https://peru-dev.org)
 * [Twitter](https://twitter.com/peru_dev)
@@ -69,6 +69,13 @@ metodologías de trabajo y sus buenas prácticas.
 * Lista de correo?
 * ...
 
+
+## Recursos externos a compartir
+
+* [Netiqueta](https://es.wikipedia.org/wiki/Netiqueta)
+* [Changelogs](https://keepachangelog.com/en/1.0.0/)
+
+
 ## Rituales
 
 * Hangouts bi-semanales o mensuales?
@@ -76,6 +83,8 @@ metodologías de trabajo y sus buenas prácticas.
 * Call for papers?
 * Dry runs?
 * Algo tipo PataConf?
+* Hackatones
+* Desconferencias
 
 ## Comunidades
 
