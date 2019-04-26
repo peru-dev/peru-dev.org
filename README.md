@@ -1,10 +1,10 @@
 # Perú Dev
 
-Somos una **comunidad de comunidades técnicas** en Perú.
+Somos una **comunidad** que quiere ser el punto de encuentro entre **comunidades técnicas** en Perú.
 
-Perú Dev es una iniciativa para acercar y fomentar a diferentes (y diversas)
-comunidades de desarrolladorxs alrededor de ciertos **principios y valores
-compartidos**.
+Perú Dev es una iniciativa dinámica de entusiastas, que busca acercar, ayudar y fomentar a diferentes 
+(y diversas) comunidades de desarrolladorxs alrededor de ciertos **principios y valores
+compartidos** que consideramos son pilar fudamental. 
 
 Síguenos en [Twitter](https://twitter.com/peru_dev) o súmate a la conversación
 en [Discord](https://discord.gg/8UhsHq3) para enterarte de nuestros eventos e
@@ -23,21 +23,25 @@ Creemos en los siguientes _valores_ y queremos fomentarlos:
 * Humildad
 * Solidaridad
 * Empatía
+* Aprendizaje
+* Honestidad
+* Responsabilidad
 
-## Principios
+## Principios en los que creemos y compartimos
 
-Las comunidades que participan de esta iniciativa...
+Las comunidades que participan de esta iniciativa creen, difunden y comparten:
 
 * Se adhieren a un [código de conducta](https://es.confcodeofconduct.com/) común.
-* No son de nadie.
+* No son de nadie. (No tienen dueños.)
+* Se fomenta el aprendizaje.
 * No deben tener como objetivo principal la promoción de productos o servicios.
 * No tienen ánimo de lucro.
 * Son abiertas e inclusivas.
 * Fomentan, dan soporte y apoyan a speakers locales.
 * Buscan y celebran excelencia técnica.
 * Invitan a gente sin experiencia a participar.
-* Difunden y fomentan el libre acceso a la tecnología, metodologías de trabajo y
-  sus buenas prácticas.
+* Difunden y fomentan el libre acceso al conocimiento libre, a la tecnología,
+metodologías de trabajo y sus buenas prácticas.
 * Fomentan la participación de los asistentes, con feedback, propuestas, ideas y
   sugerencias.
 * Mantienen la privacidad de la información recolectada, a excepción de la
@@ -45,7 +49,8 @@ Las comunidades que participan de esta iniciativa...
 
 ## Objetivos
 
-* Promover ecosistema teconológico
+* Promover ecosistema tecnológico
+* Instar espacios de aprendizajes
 * Promover comunidades
 * Promover conferencias y eventos
 * Promover speakers
@@ -53,7 +58,7 @@ Las comunidades que participan de esta iniciativa...
 * Promover cultura de colaboración, aprendizaje y compartir
 * Coordinar esfuerzos entre comunidades
 * Compartir recursos entre comunidades
-* Promover comunidades en provincias (Lima no es el Perú)
+* Dar visibilidad a comunidades en provincias (Lima no es el Perú)
 
 ## Recursos
 
@@ -79,5 +84,5 @@ Las comunidades que participan de esta iniciativa...
 | [LimaJS](https://limajs.org) | @lupomontero, @wixo, @Xpktro, @lizzie136 |
 | [Mozilla Perú](http://www.mozilla.pe/) | @ccarruitero, @AngelFQC |
 | [Lima Frontend](https://limafrontend.org/) | @techfano, @pynef, @pilmee |
-| [Vuejs @ Lima](https://www.meetup.com/Vuejs-Lima/) | @JoshDev1205, @talueses |
+| [Vuejs @ Lima](https://vuejslima.com/) | @JoshDev1205, @talueses |
 | [Vue Vixens PE](https://twitter.com/vuevixensPE) | @MaiaRojas, @developerVilchez, @RuthSalvador |
