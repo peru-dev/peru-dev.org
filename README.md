@@ -32,16 +32,16 @@ Creemos en los siguientes _valores_ y queremos fomentarlos:
 Las comunidades que participan de esta iniciativa ...
 
 * Se adhieren a un [código de conducta](https://es.confcodeofconduct.com/) común.
-* No son de nadie. (No tienen dueños.)
-* Se fomenta el aprendizaje.
+* No son de nadie. No tienen dueñxs.
+* Fomentan el aprendizaje.
 * No deben tener como objetivo principal la promoción de productos o servicios.
 * No tienen ánimo de lucro.
 * Son abiertas e inclusivas.
 * Fomentan, dan soporte y apoyan a speakers locales.
 * Buscan y celebran excelencia técnica.
 * Invitan a gente sin experiencia a participar.
-* Difunden y fomentan el libre acceso al conocimiento libre, a la tecnología,
-metodologías de trabajo y sus buenas prácticas.
+* Difunden y fomentan el libre acceso al conocimiento, a la tecnología,
+  metodologías de trabajo y sus buenas prácticas.
 * Fomentan la participación de los asistentes, con feedback, propuestas, ideas y
   sugerencias.
 * Mantienen la privacidad de la información recolectada, a excepción de la
