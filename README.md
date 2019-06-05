@@ -2,9 +2,9 @@
 
 Somos una **comunidad** que quiere ser el punto de encuentro entre **comunidades técnicas** en Perú.
 
-Perú Dev es una iniciativa dinámica de entusiastas, que busca acercar, ayudar y fomentar a diferentes 
+Perú Dev es una iniciativa dinámica de entusiastas, que busca acercar, ayudar y fomentar a diferentes
 (y diversas) comunidades de desarrolladorxs alrededor de ciertos **principios y valores
-compartidos** que consideramos son pilar fudamental. 
+compartidos** que consideramos son pilar fudamental.
 
 Síguenos en [Twitter](https://twitter.com/peru_dev) o súmate a la conversación
 en [Discord](https://discord.gg/8UhsHq3) para enterarte de nuestros eventos e
@@ -27,21 +27,21 @@ Creemos en los siguientes _valores_ y queremos fomentarlos:
 * Honestidad
 * Responsabilidad
 
-## Principios en los que creemos y compartimos
+## Principios
 
-Las comunidades que participan de esta iniciativa creen, difunden y comparten:
+Las comunidades que participan de esta iniciativa ...
 
 * Se adhieren a un [código de conducta](https://es.confcodeofconduct.com/) común.
-* No son de nadie. (No tienen dueños.)
-* Se fomenta el aprendizaje.
+* No son de nadie. No tienen dueñxs.
+* Fomentan el aprendizaje.
 * No deben tener como objetivo principal la promoción de productos o servicios.
 * No tienen ánimo de lucro.
 * Son abiertas e inclusivas.
 * Fomentan, dan soporte y apoyan a speakers locales.
 * Buscan y celebran excelencia técnica.
 * Invitan a gente sin experiencia a participar.
-* Difunden y fomentan el libre acceso al conocimiento libre, a la tecnología,
-metodologías de trabajo y sus buenas prácticas.
+* Difunden y fomentan el libre acceso al conocimiento, a la tecnología,
+  metodologías de trabajo y sus buenas prácticas.
 * Fomentan la participación de los asistentes, con feedback, propuestas, ideas y
   sugerencias.
 * Mantienen la privacidad de la información recolectada, a excepción de la
