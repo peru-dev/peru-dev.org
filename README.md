@@ -57,10 +57,11 @@ Las comunidades que participan de esta iniciativa...
 
 ## Recursos
 
-* [Página web](https://peru-dev.org)
-* [Twitter](https://twitter.com/peru_dev)
+* [Página web](https://peru-dev.org) :construction:
+* [Twitter](https://twitter.com/peru_dev) :construction:
 * [GitHub](https://github.com/peru-dev)
 * [Discord](https://discord.gg/8UhsHq3)
+* [Calendario](https://calendar.google.com/calendar/embed?src=mvr7nl37090t60ueokhou1gcfc%40group.calendar.google.com&ctz=America%2FLima)
 * Lista de correo?
 * ...
 
