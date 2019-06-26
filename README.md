@@ -31,7 +31,7 @@ Creemos en los siguientes _valores_ y queremos fomentarlos:
 
 Las comunidades que participan de esta iniciativa ...
 
-* Se adhieren a un [código de conducta](https://es.confcodeofconduct.com/) común.
+* Se adhieren a un [código de conducta](https://github.com/peru-dev/codigo-de-conducta).
 * No son de nadie. No tienen dueñxs.
 * Fomentan el aprendizaje.
 * No deben tener como objetivo principal la promoción de productos o servicios.
