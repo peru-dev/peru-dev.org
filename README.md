@@ -96,3 +96,4 @@ Las comunidades que participan de esta iniciativa ...
 | [Lima Frontend](https://limafrontend.org/) | @techfano, @pynef, @pilmee |
 | [Vuejs @ Lima](https://vuejslima.com/) | @JoshDev1205, @talueses |
 | [Vue Vixens PE](https://twitter.com/vuevixensPE) | @MaiaRojas, @developerVilchez, @RuthSalvador |
+| [Data Science Research Perú](https://datascience.pe) | @Cuica20 |
