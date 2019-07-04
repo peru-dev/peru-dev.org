@@ -101,7 +101,7 @@ esta iniciativa, así como confirmar que se alinean a los [valores](#valores) y
 | [Mozilla Perú](http://www.mozilla.pe/) | @ccarruitero, @AngelFQC, @lupomontero |
 | [Lima Frontend](https://limafrontend.org/) | @techfano, @pynef, @pilmee |
 | [Vuejs @ Lima](https://vuejslima.com/) | @JoshDev1205, @talueses |
-| [Vue Vixens PE](https://twitter.com/vuevixensPE) | @MaiaRojas, @developerVilchez, @RuthSalvador |
+| [Vue Vixens PE](https://twitter.com/vuevixensPE) | @MaiaRojas, @RuthMeryCardenas, @RuthSalvador |
 | [Data Science Research Perú](https://datascience.pe) | @Cuica20 |
 
 ***
