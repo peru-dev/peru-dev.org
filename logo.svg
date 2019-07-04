@@ -1,0 +1,17 @@
+<svg width="1024" height="512" xmlns="http://www.w3.org/2000/svg">
+      <defs>
+      <style>@import url("https://fonts.googleapis.com/css?family=Major+Mono+Display");</style>
+    </defs>
+      <style>
+        text {
+          font-family: "Major Mono Display", monospace;
+          font-size: 102px;
+          fill: #c00;
+          font-weight: 500;
+        }
+      </style>
+      <rect x="0" y="0" width="100%" height="100%" style="fill: #222;"></rect>
+      <text dominant-baseline="middle" text-anchor="middle" x="50%" y="50%">
+        <tspan>&lt;PE</tspan><tspan style="fill: #fff">RÚ D</tspan><tspan>EV&gt;</tspan>
+      </text>
+    </svg>
