@@ -8,9 +8,9 @@ técnicas** en Perú.
 Perú Dev es una iniciativa dinámica de entusiastas, que busca acercar, ayudar y
 fomentar a diferentes (y diversas) comunidades de desarrolladorxs alrededor de
 ciertos **[principios](#principios) y [valores](#valores) compartidos** que
-consideramos son el pilar fudamental.
+consideramos son el pilar fundamental.
 
-Síguenos en [Twitter](https://twitter.com/peru_dev) o súmate a la conversación
+Síguenos en [Twitter](https://twitter.com/peru_dev) y/o súmate a la conversación
 en [Discord](https://discord.gg/8UhsHq3) para enterarte de nuestros eventos e
 iniciativas.
 
@@ -91,8 +91,8 @@ Las comunidades que participan de esta iniciativa ...
 
 Este listado no pretende ser una lista _completa_ de comunidades en Perú, si no
 simplemente la lista de las comunidades que participan directa o indirectamente
-en la iniciativa de Perú Dev. Una manera de públicamente mostrar apoyo a esta
-iniciativa, así como confirmar que se alinean a los [valores](#valores) y
+en la iniciativa de **Perú Dev**. Una manera de públicamente mostrar apoyo a
+esta iniciativa, así como confirmar que se alinean a los [valores](#valores) y
 [principios](#principios) compartidos.
 
 | Comunidad | Organizadorxs |
