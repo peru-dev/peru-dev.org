@@ -74,19 +74,21 @@ Ver https://github.com/peru-dev/peru-dev.org/issues/6
 
 > Cómo tomamos decisiones? Quién decide qué?
 
-* Board vs Management
-* Board compuesto por un(a) representante de cada comunidad
-* Iniciativas se proponen al board o abiertamente (GitHub, Discord, ...)
-* El board decide qué iniciativas/proyectos hacer
-* El board asigna recursos
-* Managers:
-  - community development (nuevos miembros, onboarding)
-  - data de miembros
-  - comunicación interna
-  - comunicación externa
-  - embajadorxs
-  - moderadorxs
-  - organizadorxs (eventos)
+* Perú Dev cuenta con un _board_ compuesto por un(a) representante de cada
+  comunidad participante.
+* Para calificar, una comunidad debe considerarse "activa", lo cual implica:
+  - haber hecho por lo menos un evento en los últimos 3 meses
+  - haber hecho más de 3 eventos en los últimos 12 meses
+  - contar con más de un organizador(a)
+  - aprobación por mayoría del board
+  - estar involucrado en alguna de las iniciativas/proyectos de Perú Dev
+* La representante de cada comunidad la elige cada comunidad y puede ir
+  cambiando entre organizadorxs de dicha comunidad.
+* Iniciativas se proponen al _board_ o abiertamente (GitHub, Discord, ...)
+* El _board_ decide qué iniciativas/proyectos hacer
+* Cada comunidad tiene un solo voto en el _board_.
+* El _board_ asigna recursos y tareas.
+* El _board_ se reune periódicamente por videollamada (bimensual).
 
 ### 9. Comunicación
 
