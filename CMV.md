@@ -6,15 +6,17 @@
 
 > Para qué existe la comunidad?
 
-Para acercar, ayudar y fomentar a diferentes (y diversas) comunidades de
-desarrolladorxs alrededor de ciertos principios y valores compartidos.
+Para acercar, ayudar a fortalecer y fomentar la colaboración recíproca de
+diferentes (y diversas) comunidades de desarrolladorxs en el Perú alrededor de
+ciertos [principios y valores compartidos](https://peru-dev.org/#valores).
 
 ### 2. Público objetivo
 
 > Para quién es y cuál es el proceso de selección?
 
-Organizadorxs de comunidades, desarrolladorxs (backend/frontend), diseñadorxs de
-experiencia de usuario, hardware hackers, activistas de software libre, ...
+Organizadorxs y participantes de comunidades, desarrolladorxs
+(backend/frontend), diseñadorxs de experiencia de usuario, hardware hackers,
+activistas de software libre, ...
 
 ### 3. Valores
 
